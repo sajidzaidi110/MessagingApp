@@ -37,3 +37,8 @@ ion-content{
 .float-right{
     float: right;
 }
+.tab-button{
+    &::after{
+        color: green;
+    }
+}
